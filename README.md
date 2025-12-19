@@ -1,13 +1,25 @@
-# Hi there, I'm Jyothsna Vellanki 👋
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
+<h1 align="center"> Hi there, I'm Jyothsna Vellanki 🦊 ! </h1>
 
-## About Me
+<h3 align="center">About Me ❤</h3>
+
 I'm Jyothsna — an experienced Software Engineer focused on building scalable full‑stack applications, RESTful APIs, and ML-enabled tooling. I enjoy integrating CI/CD, containerization, and cloud services to ship production-ready solutions.
 
-- 🔭 Currently: Software Engineer at Coke One North America (CONA Services)  
+![age](https://img.shields.io/badge/age-22-lightyellow)
+![focus](https://img.shields.io/badge/focus-FULLSTACK-lightpink)
+![living](https://img.shields.io/badge/living-USA-3c9)
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working as Software Engineer at Coke One North America
 - 🌱 Learning: advanced cloud-native patterns and ML model deployment  
 - 👯 Open to: collaboration on full-stack & ML/AI projects, open-source contributions, and mentoring  
-- 💬 Ask me about: building production web apps, REST/GraphQL APIs, Dockerizing apps, and end-to-end ML pipelines  
+- 💬 Ask me about: building production web apps, REST/GraphQL APIs, Dockerizing apps, and end-to-end ML pipelines
+- 🎧 🥰 ✨
+- ⚡ Fun fact: Smile Once A Day, Make's you prettier ❤️✨
+<br />
+
 
 ---
 ## Portfolio Versions
